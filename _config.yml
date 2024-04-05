@@ -1,12 +1,12 @@
-title:              Blog
+title:              Blogs by Subhangi
 tagline:            on GitHub Pages
-description:        Content-focused template for a blog hosted on GitHub Pages.
-url:                http://YourName.github.io
+description:        blogs for ML/AI enthusiasts 
+url:                http://subhu0028.github.io
 
 author:
-  name:             Your Name
-  url:              https://twitter.com/YourName
-  email:            YourName@gmail.com
+  name:             Subhangi
+  url:              https://www.linkedin.com/in/subhangi-subhangi-18a7a2248/
+  email:            subhangi1509@gmail.com
 
 # GitHub Pages / Jekyll configuration
 baseurl:            ''
